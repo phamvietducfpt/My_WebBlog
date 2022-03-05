@@ -1,0 +1,7 @@
+about(info, link fb tiktok youtube, image)
+news paper: hasttag
+My favorite(clip, quotes, image,story):hasttag,comment,like,(login or input name)
+My clip:hasttag,comment,like,(login or input name)
+My sweet: hasttag,comment,like,login(login or input name)
+Contact(title,message,email)
+
